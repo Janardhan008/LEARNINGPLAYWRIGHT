@@ -33,7 +33,7 @@ A JavaScript learning repository covering fundamentals from basics to operators,
 | `04_Comparison_Operator.js` | Comparison operators (`>`, `<`, `>=`, `<=`) and loose (`==`) vs strict (`===`) equality |
 | `05_Confusing_Comparison_Operator.js` | Tricky `==` coercion: `"" == 0` is `true`, `"0" == 0` is `true`, `"" == "0"` is `false` |
 | `06_Confusing_Comparison_Operatorp2.js` | `null`/`undefined` gotchas: `null >= 0` is `true` but `null == 0` is `false` |
-| `07_String_Operator.js` | String type declaration and `typeof` operator: `let s = "Hello, World!"` |
+| `07_String_Operator.js` | String type declaration, `typeof` operator, string concatenation (`+`, `+=`), and comma-separated logging |
 
 ### IQ_Notes (Interview/Quiz Notes)
 | File | Description |

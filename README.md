@@ -34,6 +34,7 @@ A JavaScript learning repository covering fundamentals from basics to operators,
 | `05_Confusing_Comparison_Operator.js` | Tricky `==` coercion: `"" == 0` is `true`, `"0" == 0` is `true`, `"" == "0"` is `false` |
 | `06_Confusing_Comparison_Operatorp2.js` | `null`/`undefined` gotchas: `null >= 0` is `true` but `null == 0` is `false` |
 | `07_String_Operator.js` | String type declaration, `typeof` operator, string concatenation (`+`, `+=`), and comma-separated logging |
+| `08_Functions.js` | Function declarations, block vs function scoping (`var`/`let`/`const`), anonymous functions, and arrow functions |
 
 ### IQ_Notes (Interview/Quiz Notes)
 | File | Description |
@@ -46,4 +47,4 @@ A JavaScript learning repository covering fundamentals from basics to operators,
 
 ---
 
-**Total: 18 files across 7 directories**
+**Total: 19 files across 7 directories**

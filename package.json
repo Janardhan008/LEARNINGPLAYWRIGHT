@@ -1,0 +1,23 @@
+{
+  "name": "learningplaywright",
+  "version": "1.0.0",
+  "description": "A JavaScript learning repository covering fundamentals from basics to operators, along with interview/quiz notes and reference materials.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janardhan008/LEARNINGPLAYWRIGHT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Janardhan008/LEARNINGPLAYWRIGHT/issues"
+  },
+  "homepage": "https://github.com/Janardhan008/LEARNINGPLAYWRIGHT#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.0",
+    "@types/node": "^26.1.1"
+  }
+}
